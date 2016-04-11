@@ -1,0 +1,28 @@
+name: BenPerkins
+favicon: null
+layout_spectrum: 0.701114920899272
+typography_spectrum: 0.08608618448488414
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.12206997582688928
+  lightness: 0.6763111578766257
+  saturation: 0.7234582309611142
+  rhythmicContrast: 0.9842711065430194
+purpose: []
